@@ -1,0 +1,12 @@
+﻿D:\apps\vstudio\1\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+D:\apps\vstudio\1\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(x64\Release\)包含从另一个项目(cbox_demo.vcxproj, ch_convert_demo.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+D:\codes\c++\box_call_demo_list\WYH_BOX\cvbox_call_demo\cvbox_call_demo\src\hid\HidTable.h(119,1): warning C4005: “KEY_EXECUTE”: 宏重定义
+D:\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(23266): message : 参见“KEY_EXECUTE”的前一个定义
+    正在创建库 work\cvbox_call_demo.lib 和对象 work\cvbox_call_demo.exp
+  正在生成代码
+  3 of 70 functions ( 4.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  cvbox_call_demo.vcxproj -> D:\codes\c++\box_call_demo_list\WYH_BOX\cvbox_call_demo\cvbox_call_demo\work\cvbox_call_demo.exe

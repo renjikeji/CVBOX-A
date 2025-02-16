@@ -1,0 +1,9 @@
+﻿D:\apps\vs2019\bin\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  simple_call.cpp
+    正在创建库 work\ch_convert_demo.lib 和对象 work\ch_convert_demo.exp
+  正在生成代码
+  3 of 71 functions ( 4.2%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  ch_convert_demo.vcxproj -> D:\codes\c++\ch_convert\ch_convert_demo\ch_convert_demo\work\ch_convert_demo.exe
